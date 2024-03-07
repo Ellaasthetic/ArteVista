@@ -1,7 +1,8 @@
 import React from 'react'
+import NavBar from '../components/NavBar';
 
 export default function Reservation() {
   return (
-    <div>Reservation</div>
+    <div><NavBar /></div>
   )
 }
